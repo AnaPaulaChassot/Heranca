@@ -9,7 +9,7 @@ package heranca;
  *
  * @author Suporte
  */
-public class transporte {
+public class transporte extends moto {
     
     protected int capacidade;
     

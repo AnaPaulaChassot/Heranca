@@ -19,6 +19,7 @@ public class automovel extends terrestre {
         System.out.println("Número da placa: "+placa);
         System.out.println("Número de portas: "+portas);
         System.out.println("Número de rodas: "+numRodas);
+        System.out.println("Capacidade de pessoas: "+capacidadePessoas);
         System.out.println("Capacidade: "+capacidade);
     }
     
